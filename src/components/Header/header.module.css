@@ -1,0 +1,19 @@
+.header {
+    background-color: white;
+    border-bottom: 1px solid #ebebeb;
+}
+
+.logoWrapper {
+    display: flex;
+    color: #487bd7;
+    font-size: 20px;
+    font-weight: bold;
+
+    img {
+        margin-right: 5px;
+    }
+}
+
+.dropdown {
+    color: #487bd7;
+}
